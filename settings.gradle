@@ -1,0 +1,3 @@
+include ':fcm'
+include ':app'
+rootProject.name = "Fcm with Server"
